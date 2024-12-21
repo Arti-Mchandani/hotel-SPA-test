@@ -1,9 +1,9 @@
-import { useState, useEffect } from 'react';
+import  { useState, useEffect } from 'react';
 import { NavLink } from 'react-router-dom';
 
-import hotelsData from '../../api/hotel.json';
-import { HotelCard } from '../Components/HotelCard';
-import { Loader } from '../Components/Loader';
+import hotelsData from '../../api/hotel.json'; 
+import { HotelCard } from '../hotel/HotelCard.jsx';
+import { Loader } from '../hotel/Loader.jsx';
 
 const Home = () => {
   const [hotels, setHotels] = useState([]);
@@ -25,7 +25,7 @@ const Home = () => {
     <div className='p-5'>
       {loading ? (
         // Show spinner with message
-        <Loader message={'Loading Hotels'} />
+       <Loader message={'Loading Hotels'} />
       ) : (
         // Show Hotel cards when loading is complete
         <div className='flex flex-wrap gap-5 justify-center'>
