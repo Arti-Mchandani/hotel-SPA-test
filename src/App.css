@@ -1,0 +1,20 @@
+:root {
+    --level-1: #8dccad;
+    --level-2: #f5cc7f;
+    --level-3: #7b9fe0;
+    --level-4: #f27c8d;
+    --black: black;
+  }
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  ul {
+    list-style: none;
+    padding-left: 0 ;
+  }
+  body {
+    margin: 0 auto;
+    
+  }
