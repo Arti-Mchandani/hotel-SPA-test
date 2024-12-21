@@ -24,7 +24,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Error Handling
 1. On opening an invalid hotel details with wrong hotel id, an error page will be shown with message 'Hotel not found' - Example - [Invalid Hotel](http://localhost:3000/hotels/20)
-Code - ErrorPage.jsx
 
 ### Reusable components 
 1. HotelCard.jsx - To show the hotel info in the home page
