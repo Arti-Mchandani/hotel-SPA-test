@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import hotelData from "../../api/hotel.json";
-import { Loader } from "../Components/Loader";
+import { Loader } from "../hotel/Loader";
 
 const HotelDetail = () => {
   const { id } = useParams();

@@ -4,7 +4,7 @@
         "name": "Seaside Paradise",
         "location": "Maldives",
         "rating": 4.9,
-        "imageUrl": "/Images/hotel1.jpg",
+        "imageUrl": "/images/hotel1.jpg",
         "datesOfTravel": [
             "2024-01-01",
             "2024-01-07"
@@ -26,7 +26,7 @@
         "name": "Mountain Retreat",
         "location": "Swiss Alps",
         "rating": 4.7,
-        "imageUrl": "/Images/hotel2.jpg",
+        "imageUrl": "/images/hotel2.jpg",
         "datesOfTravel": [
             "2024-02-15",
             "2024-02-22"
@@ -44,7 +44,7 @@
         "name": "Urban Oasis",
         "location": "New York City, USA",
         "rating": 4.5,
-        "imageUrl": "/Images/hotel3.jpg",
+        "imageUrl": "/images/hotel3.jpg",
         "datesOfTravel": [
             "2024-03-10",
             "2024-03-17"
@@ -66,7 +66,7 @@
         "name": "Desert Dream",
         "location": "Dubai, UAE",
         "rating": 4.8,
-        "imageUrl": "/Images/hotel4.jpg",
+        "imageUrl": "/images/hotel4.jpg",
         "datesOfTravel": [
             "2024-04-01",
             "2024-04-10"
@@ -88,7 +88,7 @@
         "name": "Tropical Escape",
         "location": "Bali, Indonesia",
         "rating": 4.6,
-        "imageUrl": "/Images/hotel5.jpg",
+        "imageUrl": "/images/hotel5.jpg",
         "datesOfTravel": [
             "2024-05-01",
             "2024-05-10"
@@ -110,7 +110,7 @@
         "name": "Historic Haven",
         "location": "Rome, Italy",
         "rating": 4.4,
-        "imageUrl": "/Images/hotel6.jpg",
+        "imageUrl": "/images/hotel6.jpg",
         "datesOfTravel": [
             "2024-06-01",
             "2024-06-07"
@@ -132,7 +132,7 @@
         "name": "Safari Lodge",
         "location": "Serengeti, Tanzania",
         "rating": 4.9,
-        "imageUrl": "/Images/hotel7.jpg",
+        "imageUrl": "/images/hotel7.jpg",
         "datesOfTravel": [
             "2024-07-10",
             "2024-07-20"
@@ -154,7 +154,7 @@
         "name": "Ocean Breeze",
         "location": "Gold Coast, Australia",
         "rating": 4.3,
-        "imageUrl": "/Images/hotel8.jpg",
+        "imageUrl": "/images/hotel8.jpg",
         "datesOfTravel": [
             "2024-08-01",
             "2024-08-10"
@@ -176,7 +176,7 @@
         "name": "Rainforest Retreat",
         "location": "Costa Rica",
         "rating": 4.7,
-        "imageUrl": "/Images/hotel9.jpg",
+        "imageUrl": "/images/hotel9.jpg",
         "datesOfTravel": [
             "2024-09-01",
             "2024-09-15"
@@ -198,7 +198,7 @@
         "name": "Island Bliss",
         "location": "Hawaii, USA",
         "rating": 4.8,
-        "imageUrl": "/Images/hotel10.jpg",
+        "imageUrl": "/images/hotel10.jpg",
         "datesOfTravel": [
             "2024-10-01",
             "2024-10-10"
